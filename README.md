@@ -1,8 +1,9 @@
-SmartMed Pharmacy Chain Management System
+#SmartMed Pharmacy Chain Management System
 
 This repository contains the database design and related components for the SmartMed Pharmacy Chain Management System, a centralized and advanced database system designed for a rapidly expanding retail pharmacy chain in Sri Lanka.
 
-Project Overview
+##Project Overview
+
 The healthcare and pharmaceutical industry is a critical, data-intensive sector where accuracy, availability, and speed of information are vital. This project addresses the real-world challenges of managing a pharmacy chain by designing and implementing a comprehensive database system that not only supports operational efficiency but also includes advanced features like triggers, stored procedures, views, and business intelligence components.
 
 
